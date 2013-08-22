@@ -35,8 +35,8 @@ tape.mode1=Scambiando la modalità a misurazione assoluta.
 
 lock.creativeonly=Solo in Modalità Creativa
 lock.notowner=Non sei il propietario di questo blocco.
-lock.locked=Queto blocco è stato bloccato.
-lock.unlocked=Queto blocco è stato sbloccato.
+lock.locked=Questo blocco è stato bloccato.
+lock.unlocked=Questo blocco è stato sbloccato.
 
 
 
